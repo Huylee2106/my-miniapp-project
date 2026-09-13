@@ -1,43 +1,128 @@
-# Sprint 2 - Sprint Planning
+# Sprint 2 Planning
 
-## 1. Sprint Goal
+## 1. Sprint Information
 
-Hoàn thiện các chức năng chính của hệ thống, tập trung vào quản lý sản phẩm, giỏ hàng và đặt hàng.
+**Sprint:** Sprint 2
 
-## 2. Sprint Duration
+**Duration:** 2 Weeks
 
-- Start: [Ngày bắt đầu Sprint 2]
-- End: [Ngày kết thúc Sprint 2]
-- Duration: 2 weeks
+**Team Members:** Huy, Khoa
 
-## 3. Sprint Backlog
+**Sprint Goal:**
 
-| ID | User Story | Priority | Assignee | Status |
-|---|---|---|---|---|
-| US06 | Quản lý sản phẩm | High | Huy | To Do |
-| US07 | Xem chi tiết sản phẩm | High | Khoa | To Do |
-| US08 | Thêm sản phẩm vào giỏ hàng | High | Huy | To Do |
-| US09 | Cập nhật giỏ hàng | Medium | Khoa | To Do |
-| US10 | Đặt hàng | High | Huy | To Do |
-| US11 | Xem lịch sử đơn hàng | Medium | Khoa | To Do |
+Develop the main e-commerce functions, including product management,
+shopping cart, order placement, order history, testing and system
+completion.
 
-## 4. Sprint Tasks
+---
 
-- Thiết kế giao diện quản lý sản phẩm.
-- Xây dựng chức năng thêm, sửa, xóa sản phẩm.
-- Xây dựng trang chi tiết sản phẩm.
-- Xây dựng chức năng giỏ hàng.
-- Xây dựng chức năng đặt hàng.
-- Xây dựng chức năng xem lịch sử đơn hàng.
-- Kiểm thử các chức năng.
-- Sửa các lỗi phát sinh.
+## 2. Selected User Stories
 
-## 5. Definition of Done
+The following User Stories are selected from the Product Backlog
+for Sprint 2:
 
-Một User Story được xem là hoàn thành khi:
+- US-04 – Manage Products
+- US-06 – Shopping Cart
+- US-07 – Place Order
+- US-08 – View Order History
 
-- Code đã được hoàn thành.
-- Chức năng hoạt động đúng yêu cầu.
-- Đã kiểm thử.
-- Không còn lỗi nghiêm trọng.
-- Code được commit và push lên GitHub.
+---
+
+## 3. Sprint Tasks
+
+### 3.1 Product Management
+
+- Create Product Management interface.
+- Display product list.
+- Implement Add Product function.
+- Implement Edit Product function.
+- Implement Delete Product function.
+- Validate product information.
+- Test product management functions.
+
+### 3.2 Product Detail Interface
+
+- Design product detail interface.
+- Display product image.
+- Display product name.
+- Display product price.
+- Display product description.
+- Connect the interface with product data.
+- Test product detail interface.
+
+### US-06 – Shopping Cart
+
+- Create shopping cart interface.
+- Add product to cart.
+- Display products in cart.
+- Update product quantity.
+- Remove product from cart.
+- Calculate total price.
+- Test shopping cart functions.
+
+### US-07 – Place Order
+
+- Create order form.
+- Enter customer information.
+- Validate order information.
+- Create Order data.
+- Create OrderDetail data.
+- Save order information to the database.
+- Calculate order total.
+- Test order placement.
+
+### US-08 – View Order History
+
+- Create order history interface.
+- Retrieve user's orders.
+- Display order information.
+- Display order details.
+- Display order status.
+- Test order history function.
+
+### 3.3 Testing and Bug Fixing
+
+- Test product management.
+- Test shopping cart.
+- Test order placement.
+- Test order history.
+- Test database operations.
+- Test the complete system.
+- Fix functional errors.
+- Fix interface errors.
+- Perform final system testing.
+
+### 3.4 Sprint Completion
+
+- Review and clean up the code.
+- Prepare the system for demonstration.
+- Prepare Sprint Review.
+- Prepare Sprint Retrospective.
+
+---
+
+## 4. Definition of Done
+
+A User Story is considered Done when:
+
+- The functionality has been implemented.
+- The functionality has been tested.
+- The functionality works without critical errors.
+- Database operations work correctly.
+- Interface errors have been fixed.
+- The code has been reviewed by the team.
+- The completed work is committed to GitHub.
+- The functionality is ready for demonstration.
+
+---
+
+## 5. Sprint Goal
+
+At the end of Sprint 2, the main e-commerce functions should be
+completed. Users should be able to view and manage products,
+add products to the shopping cart, update the cart, place orders
+and view their order history.
+
+The system should be tested, major errors should be fixed and
+the application should be ready for demonstration during the
+Sprint Review.

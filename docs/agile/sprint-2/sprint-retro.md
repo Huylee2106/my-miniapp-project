@@ -48,4 +48,4 @@ Sprint 2 đạt được mục tiêu đề ra. Huy và Khoa đã hoàn thành c�
 
 ## 4. Conclusion
 
-Sprint 2 đã đạt được mục tiêu đề ra. Huy và Khoa đã hoàn thành các chức năng chính theo Sprint Backlog. Nhóm đã rút ra một số kinh nghiệm về việc quản lý task, kiểm thử sớm và phối hợp trong quá trình phát triển. Các action items sẽ được áp dụng để cải thiện quy trình làm việc và hoàn thiện sản phẩm trước khi bàn giao.ện hệ thống.
+Sprint 2 đã đạt được mục tiêu đề ra. Nhóm đã hoàn thành các chức năng chính theo Sprint Backlog. Nhóm đã rút ra một số kinh nghiệm về việc quản lý task, kiểm thử sớm và phối hợp trong quá trình phát triển. Các action items sẽ được áp dụng để cải thiện quy trình làm việc và hoàn thiện sản phẩm trước khi bàn giao.ện hệ thống.
